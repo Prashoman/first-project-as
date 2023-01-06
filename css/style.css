@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-image: url(../images/banner/banner1.png);
+    background-size: cover;
+    width: auto;
+    height: 620px;
+}  
+.full-header{
+    text-align: right;
+    padding-top: 200px;
+    padding-right: 100px;
+
+}
+.header-tittle{
+    font-size: 28px;
+}
+.header-deacription{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.header-deacription p{
+    font-size: 18px;
+}
+.btn{
+    margin-top: 10px;
+}
+.header-btn{
+    height: 50px;
+    padding: 10px 20px;
+    background-color: #F15B22;
+    color: #FFFF;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+}
