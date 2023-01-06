@@ -116,3 +116,68 @@ header{
     color: #444343;
 }
 /* plans end */
+.footer-container{
+    margin-top: 40px;
+    width: auto;
+    height: 400px;
+    background-color: black;
+}
+.footer-header{
+    padding-top: 100px;
+    margin-left: 80px;
+    display: flex;
+}
+.footer-info{
+    width: 500px;
+    margin-left: 20px;
+}
+
+.footer-item h1{
+    margin-bottom: 10px;
+    font-size: 28px;
+    color: #FFFF;
+}
+.footer-item p{
+    color: #FFFF;
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.footer-contact{
+    margin-bottom: 20px;
+}
+.footer-contact p{
+    margin-top: 12px;
+    color: #FFFF;
+}
+.footer-icon .icon-item{
+margin-left: 10px;
+}
+.footer-info-container{
+    margin-left: 200px;
+}
+.footer-input h3{
+    color: #FFFF;
+    margin-bottom: 20px;
+    font-weight: 900;
+    font-size: 26px;
+}
+.footer-input input{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;
+    font-size: 16px;
+    padding: 10px;
+    color: #FFFF;
+    border: 1px solid #fff;
+}
+.btn-submit{
+    height: 50px;
+    padding: 10px 20px;
+    background-color: #FFFF;
+    color:  #F15B22;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+}
