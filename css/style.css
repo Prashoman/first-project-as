@@ -83,6 +83,7 @@ header{
     margin-right: 5px;
 }
 /* end failures */
+
 .plan-section{
     margin-top: 50px;
     margin-bottom: 20px;
@@ -117,6 +118,7 @@ header{
     color: #444343;
 }
 /* plans end */
+
 .footer-container{
     margin-top: 40px;
     width: auto;
@@ -182,6 +184,8 @@ margin-left: 10px;
     font-size: 20px;
     border-radius: 5px;
 }
+/* end footer */
+
 .gradient-container{
     width: 1140px;
     height: 300px;
@@ -196,4 +200,36 @@ margin-left: 10px;
 .gradient-tittle{
     font-size: 30px;
     color: #fff;
+}
+
+/* end gradient  */
+.blogs-container{
+    margin: 100px 0;
+}
+.blog-header{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 900;
+    font-size: 28px;
+}
+.blog-description{
+    text-align: center;
+    margin-bottom: 40px;
+    justify-content: center;
+}
+.blog-info{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.blog-catagory{
+    width: 300px;
+    margin-left: 20px;
+    text-align: center;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.blog-catagory img{
+    max-width: 250px;
+    height: 200px;
 }
